@@ -1,0 +1,55 @@
+.deposit {
+    border: solid 3px green;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    width: 45%;
+    margin-right: 125rem;
+    justify-content: center;
+    
+}
+.deposit-container{
+    margin-top: 50px;
+    justify-content: center;
+
+
+
+}
+.deposit-container >*{
+    justify-content: center;
+}
+.deposit-submit {
+    background-color:lightgreen;
+    color: white ;
+    border-radius: 5px;
+    width: 100%;
+    flex-direction: row;
+    height: 30px;
+    font-size: 20px;
+    
+}
+
+.deposit-form {
+    width: 100%;
+    justify-content: center;
+}
+
+
+ 
+
+
+
+.deposit-input {
+    width: 150px;
+    border-radius: 5px; 
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+    display: inline-block;
+    width: 100%;
+    height: 20px;
+
+}
+
+.deposit-header {
+    text-align: center;
+}
